@@ -13,4 +13,4 @@ def magic_number():
 
 
 if __name__ == "__main__":
-    magic_nunber()
+    magic_number()
