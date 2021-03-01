@@ -1,4 +1,4 @@
-def magic_nunber():
+def magic_number():
     number = 7
     while True:
         print("Please enter your guess:")
